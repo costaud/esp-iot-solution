@@ -2,9 +2,13 @@
 
 ## 解决方案
 
-* [低功耗方案设计](low_power_solution/readme_cn.md)
+* [Deep-sleep 低功耗方案设计](low_power_solution/readme_cn.md)
     * [RTC IO 唤醒 Deep Sleep 时功耗测试](low_power_solution/deep-sleep_current_test_cn.md)
     * [ESP32 低功耗方案设计](low_power_solution/esp32_lowpower_solution_cn.md)
+* [Light-sleep 低功耗方案概述](DFS_and_light_sleep/readme_cn.md)
+    * [ESP32 DFS 功能测试指南](./DFS_and_light_sleep/DFS_test_manual_en.md)
+    * [ESP32 Light-sleep 特性](./DFS_and_light_sleep/light_sleep_performance_en.md)
+    * [ESP32 Light-sleep 测试指南](./DFS_and_light_sleep/light_sleep_test_manual_cn.md)
 * [触摸传感器方案设计](touch_pad_solution/touch_sensor_design_cn.md)
 * [ESP32 芯片加密方案设计](security_solution/readme_cn.md)
     * [ESP32 安全方案](security_solution/esp32_secure_and_encrypt_cn.md)
