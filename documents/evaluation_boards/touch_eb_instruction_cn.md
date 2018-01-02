@@ -11,7 +11,7 @@ TOUCH_EB 套件用于评估和开发 ESP32 触摸传感器功能。评估套件�
 
 - **开发环境准备**
  - [ESP-IDF](https://github.com/espressif/esp-idf) 是 ESP32 平台的软件开发包。文档 [Get Started](https://esp-idf.readthedocs.io/en/latest/get-started/index.html) 介绍编译环境的搭建和软件开发包的使用说明。
- - [ESP-Prog](./esp_prog_instruction.md) 是 ESP32 调试器。
+ - [ESP-Prog](./esp_prog_instruction_cn.md) 是 ESP32 调试器。
 
 - **软件获取**
  - [esp-iot-solution](https://github.com/espressif/esp-iot-solution) 基于 ESP-IDF 开发，包含多种应用解决方案。文档 [project-description-of-iot-solution](https://github.com/espressif/esp-iot-solution#project-description-of-iot-solution) 介绍了如何编译解决方案。
@@ -19,7 +19,7 @@ TOUCH_EB 套件用于评估和开发 ESP32 触摸传感器功能。评估套件�
 
 - **硬件手册**
   - TOUCH_EB 开发套件的硬件原理图，PCB 文件，BOM 等文件参考 esp-iot-solution-hardware 工程。
-  - [ESP-Prog](./esp_prog_instruction.md) 调试器的介绍。
+  - [ESP-Prog](./esp_prog_instruction_cn.md) 调试器的介绍。
 
 - **相关参考资料**
   - [Espressif 官网](www.espressif.com)。  
